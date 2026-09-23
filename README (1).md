@@ -93,9 +93,6 @@ Test Accuracy: XX.XX%
 - Face recognition currently supports one known identity at a time per enrollment step; extend `known_encoding`/`known_name` to lists for multi-person recognition
 - The Colab-based demo cells (browser photo capture, file upload) and the local webcam attendance cells are separate workflows and cannot both run in the same environment
 
-## License
-
-Add your preferred license here (e.g. MIT).
 
 ## Acknowledgments
 
